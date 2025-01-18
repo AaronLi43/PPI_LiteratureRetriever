@@ -22,7 +22,7 @@ Your directory should look like this:
 ├── search_papers.py
 └── README.md
 ```
-
+You could download all the files in cache through [Cache](https://drive.google.com/drive/folders/1qW5E2py2XIIaY-Qrn3mnGFNiWP5mF2Xc?usp=sharing).
 ## Quick Start
 
 1. Place all downloaded cache files in the `cache` directory
